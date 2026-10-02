@@ -1,0 +1,26 @@
+:root {
+    --cor-fundo: #574c4c;
+    --cor-destaque: #00a500;
+    --cor-destaque-suave: #53CC20;
+    --espacamento:16px;
+
+}
+body{
+    display: flex;
+    font-family: 'Courier New', Courier, monospace;
+    justify-content: center;
+    max-width: 1440px;
+    background-color: black;
+}
+.calculadora{
+    justify-items: center;
+    border: 1px solid #53CC20;
+    width: 500px;
+    height: 600px;
+}
+.titulo{
+    font-family: 'Courier New', Courier, monospace;
+    color: #00a500;
+    font-size:xx-large
+}
+
