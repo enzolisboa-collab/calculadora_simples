@@ -17,6 +17,7 @@ body{
     border: 1px solid #53CC20;
     width: 500px;
     height: 600px;
+    border-radius: 8px;
 }
 .titulo{
     font-family: 'Courier New', Courier, monospace;
